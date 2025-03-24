@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<EmpRecordsData>
+	<Ecode Id = "E001" Employee = "Felix">
+		<EmpDetails DataOfJoin = "2014-02-02" Grade = "A" Salary = "1900"/>
+	</Ecode>
+	<Ecode Id = "E002" Employee = "Ethan">
+		<EmpDetails DataOfJoin = "2014-03-02" Grade = "B" Salary = "1850"/>
+	</Ecode>
+	<Ecode Id = "E003" Employee = "Serena">
+		<EmpDetails DataOfJoin = "2014-02-03" Grade = "A" Salary = "1900"/>
+	</Ecode>
+	<Ecode Id = "E004" Employee = "Marcus">
+		<EmpDetails DataOfJoin = "2014-02-04" Grade = "C" Salary = "1750"/>
+	</Ecode>
+	<Ecode Id = "E005" Employee = "Clara">
+		<EmpDetails DataOfJoin = "2014-04-02" Grade = "B" Salary = "1850"/>
+	</Ecode>
+	
+</EmpRecordsData>
