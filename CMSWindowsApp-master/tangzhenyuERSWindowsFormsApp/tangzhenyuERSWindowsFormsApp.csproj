@@ -262,7 +262,6 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <None Include="tangzhenyuProject3CLSApp1.csproj" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
