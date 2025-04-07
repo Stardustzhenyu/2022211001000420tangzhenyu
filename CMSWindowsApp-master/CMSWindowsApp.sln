@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMSWindowsApp", "CMSWindows
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tangzhenyuERSWindowsFormsApp", "tangzhenyuERSWindowsFormsApp\tangzhenyuERSWindowsFormsApp.csproj", "{DBCD435A-F1EE-41FB-8816-2A9380B719FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tangzhenyuProject3CLSApp1", "tangzhenyuProject3CLSApp1\tangzhenyuProject3CLSApp1.csproj", "{A80DA19B-A04D-4CAA-B62B-2CA60FD30580}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DBCD435A-F1EE-41FB-8816-2A9380B719FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBCD435A-F1EE-41FB-8816-2A9380B719FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBCD435A-F1EE-41FB-8816-2A9380B719FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A80DA19B-A04D-4CAA-B62B-2CA60FD30580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A80DA19B-A04D-4CAA-B62B-2CA60FD30580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A80DA19B-A04D-4CAA-B62B-2CA60FD30580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A80DA19B-A04D-4CAA-B62B-2CA60FD30580}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
